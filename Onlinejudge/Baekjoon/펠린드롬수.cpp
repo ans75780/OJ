@@ -36,13 +36,13 @@ int main()
 		bIsCompare = true;
 
 
-		//정의
+		//정의[1]
 		int frontDigit = 1;
 		while (frontDigit * 10 < numberList[i])
 		{
 			frontDigit *= 10;
 		}
-		//비교
+		//비교[2]
 		while (numberList[i] > 0)
 		{
 
@@ -62,7 +62,7 @@ int main()
 			if (numberList[i] < 10)
 				break;
 		}
-		//처리
+		//출력[3]
 		if (bIsCompare)
 		{
 			cout << "yes" << endl;

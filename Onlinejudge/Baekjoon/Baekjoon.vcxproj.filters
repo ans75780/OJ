@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\푼 문제">
+      <UniqueIdentifier>{df8ba999-0ab8-4def-b7e1-218ae0fdb48f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\풀고있는 문제">
+      <UniqueIdentifier>{06658a01-cdf2-4c5b-af19-e23541bc4a5c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Baekjoon.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="펠린드롬수.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="체스판 다시 칠하기.cpp">
+      <Filter>소스 파일\풀고있는 문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
