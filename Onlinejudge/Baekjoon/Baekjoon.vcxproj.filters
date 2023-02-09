@@ -25,6 +25,12 @@
       <Filter>소스 파일\푼 문제</Filter>
     </ClCompile>
     <ClCompile Include="체스판 다시 칠하기.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="단어 정렬.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
       <Filter>소스 파일\풀고있는 문제</Filter>
     </ClCompile>
   </ItemGroup>
