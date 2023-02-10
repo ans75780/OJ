@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\풀고있는 문제">
       <UniqueIdentifier>{06658a01-cdf2-4c5b-af19-e23541bc4a5c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\패스한 문제">
+      <UniqueIdentifier>{84ae032f-7525-424f-bc0c-a5a55019039c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="펠린드롬수.cpp">
@@ -34,6 +37,15 @@
       <Filter>소스 파일\푼 문제</Filter>
     </ClCompile>
     <ClCompile Include="피보나치 함수.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="보물.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="36진수.cpp">
+      <Filter>소스 파일\패스한 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="기타줄.cpp">
       <Filter>소스 파일\푼 문제</Filter>
     </ClCompile>
   </ItemGroup>
